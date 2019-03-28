@@ -1,0 +1,43 @@
+/* classic hello world */
+
+//********* PHP:
+
+// Print "Hello World!" to the screen
+class Solution
+{
+  public function main() { 
+    echo "Hello World!";
+    return NULL;
+  }
+}
+
+//********* JavaScript:
+
+// Print "Hello World!" to the screen
+class s{
+  main() {
+    console.log("Hello World!");
+  }
+}
+let Solution = new s();
+
+    1 year ago
+    Refactor
+    Discuss
+
+//********* CoffeeScript:
+
+class s
+  constructor: (@szosz) ->
+    
+  main: (p1, p2, p3) ->
+    console.log "#{@szosz}\n"  
+
+Solution = new s("Hello World!")
+    
+class s
+  main: => 
+    console.log 'Hello World!\n'
+    
+    
+Solution = new s;    
