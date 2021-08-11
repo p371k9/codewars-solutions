@@ -1,4 +1,8 @@
-# My CodeWars solutions
+# codewars-solutions
+
+Some of my solutions on codewars.com 
+
+
 | Description + Code | number of rows  |
 | --- | ---: |
 | Build_Tower.php | [9](Build_Tower.php) |
@@ -16,5 +20,7 @@
 | Primes_in_numbers.php | [41](Primes_in_numbers.php) |
 | Sum_Strings_as_Numbers.php | [27](Sum_Strings_as_Numbers.php) |
 | Switch_it_Up.php | [15](Switch_it_Up.php) |
+
+
 
 [![CodeWars](https://www.codewars.com/users/p371k9/badges/large)](https://www.codewars.com/users/p371k9)
