@@ -6,6 +6,7 @@ Some of my solutions on codewars.com
 | title | lang:rows |
 | --- | ---: |
 | Build_Tower | [php:9](Build_Tower.php) |
+| Classic_Hello_World | [js:6](Classic_Hello_World.js), [php:7](Classic_Hello_World.php) |
 | Coding_Meetup_2 | [php:6](Coding_Meetup_2.php) |
 | Coding_Meetup_3 | [php:8](Coding_Meetup_3.php) |
 | Coding_Meetup_5 | [php:11](Coding_Meetup_5.php) |
