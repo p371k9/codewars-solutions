@@ -22,6 +22,4 @@ Some of my solutions on codewars.com
 | Sum_Strings_as_Numbers | [php:27](Sum_Strings_as_Numbers.php) |
 | Switch_it_Up | [php:15](Switch_it_Up.php) |
 
-
-
-[![CodeWars](https://www.codewars.com/users/p371k9/badges/large)](https://www.codewars.com/users/p371k9)
+–––––––––––––––––––––––––––––––––––––––––––
