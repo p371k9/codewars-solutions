@@ -1,6 +1,6 @@
 # codewars-solutions
 
-Some of my solutions on codewars.com 
+My solutions on codewars.com 
 
 
 | title | lang:rows |
